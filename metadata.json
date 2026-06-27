@@ -1,0 +1,6 @@
+{
+  "name": "Bhajane Management System",
+  "description": "Rotational weekly Saturday bhajane registry for village communities. Manage sponsoring houses, coordinate print invitations, verify expenditures, and audit balances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
